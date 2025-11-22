@@ -1,0 +1,5 @@
+{
+  "name": "Assignment 2",
+  "description": "An intelligent, prompt-driven email productivity agent that categorizes emails, extracts action items, and auto-drafts replies using the Gemini API.",
+  "requestFramePermissions": []
+}
